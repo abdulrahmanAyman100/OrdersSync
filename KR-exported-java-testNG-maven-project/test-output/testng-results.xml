@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-12T00:03:13 EET" name="Command line suite" finished-at="2024-12-12T00:03:30 EET" duration-ms="16884">
+    <groups>
+    </groups>
+    <test started-at="2024-12-12T00:03:13 EET" name="Command line test" finished-at="2024-12-12T00:03:30 EET" duration-ms="16884">
+      <class name="org.example.CHG_DownloadPatientsDocuments_NEW">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.CHG_DownloadPatientsDocuments_NEW@77128536]" started-at="2024-12-12T00:03:13 EET" name="setUp" finished-at="2024-12-12T00:03:14 EET" duration-ms="1585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUntitledTestCase()[pri:0, instance:org.example.CHG_DownloadPatientsDocuments_NEW@77128536]" started-at="2024-12-12T00:03:14 EET" name="testUntitledTestCase" finished-at="2024-12-12T00:03:27 EET" duration-ms="12725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.CHG_DownloadPatientsDocuments_NEW@77128536]" started-at="2024-12-12T00:03:27 EET" name="tearDown" finished-at="2024-12-12T00:03:30 EET" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.CHG_DownloadPatientsDocuments_NEW -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
